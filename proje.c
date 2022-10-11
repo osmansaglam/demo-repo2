@@ -6,9 +6,7 @@ int main()
 {
     printf("Hello World");
     printf("Total is %d",total(4,5));
-
-
-
+    
     return 0;
 }
 
